@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Flower from './flower/index'
 
 ReactDOM.render(
-  21212,
+  <Flower />,
   document.getElementById('root')
 );
